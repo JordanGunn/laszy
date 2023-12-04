@@ -8,7 +8,7 @@ import datetime
 import pandas as pd
 
 import Laszy
-from lidar.lidar_const import RegexLidar
+from rsge_toolbox.lidar.lidar_const import RegexLidar
 
 
 # ------------------------------------

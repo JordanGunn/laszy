@@ -19,7 +19,8 @@ pip install laspy lazrs pandas numpy tqdm
 1. **Importing Laszy**
    Before using Laszy functions, import the script into your Python environment.
    ```python
-   import Laszy
+
+from laszy import Laszy
    ```
 
 2. **Processing Data**
@@ -30,7 +31,8 @@ pip install laspy lazrs pandas numpy tqdm
 
 1. **Importing LaszyReport**
    ```python
-   import LaszyReport
+
+from laszy import LaszyReport
    ```
 
 2. **Generating Reports**
